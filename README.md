@@ -1,4 +1,4 @@
-#📺 Netflix Data Analysis Project
+##📺 Netflix Data Analysis Project
 Welcome to the Netflix Data Analysis Project! This project dives into Netflix's dataset to explore trends, visualize insights, and understand the content offered on the platform.
 
 📌 Project Overview
